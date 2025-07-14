@@ -1,0 +1,2 @@
+# IntrGraphQL
+Ejercicio sobre GraphQL
